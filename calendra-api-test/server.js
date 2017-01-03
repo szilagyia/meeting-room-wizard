@@ -44,7 +44,7 @@ calendarsRouter.get('/:room', function(req, res) {
 // apply the routes to our application
 app.use('/admin', adminRouter);
 app.use('/calendars', calendarsRouter);
-
+app.use('/staticevents', express.static('staticevents'));
 // start the server
 app.listen(1337);
 console.log('1337 is the magic port!');
