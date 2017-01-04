@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+  <meta charset="UTF-8">
+  <title>Super Cool Site</title>
+  <style>
+    body {
+      text-align:center;
+      background: #EFEFEF;
+      padding-top: 50px;
+      }
+  </style>
+</head>
+<body>
+<script>
+ var events = [];
+
+var refreshData = function() { 
+ $.get( "http://localhost:1337/staticevents/quickstart-sample.json?calendar=", function( data ) {
+  events = data;
+  $('h1')[0].textContent = ( "Load was performed, we got " + events.length + " number of events" );
+  
+  $('#events').replaceWith("<ul id='newList'></ul>");
+   $('#newList li').remove();
+  $.each( events, function(idx, event) {
+    $("#newList").append("<li>"+event.summary +"</li>");
+  });
+  }  
+
+ );
+};
+
+refreshData();
+
+setInterval(refreshData, 3000);
+
+
+</script>
+<h1>Loading...</h1>
+<div id=events>
+  </div>
+
+
+</body>
+</html>
