@@ -5,7 +5,7 @@ var path = require('path');
 
 // send our index.html file to the user for the home page
 app.get('/', function(req,res) {
-  res.sendFile(path.join(__dirname + '/index.html'));
+  res.sendFile(path.join(__dirname + '/dist/index.html'));
 });
 
 // create routes for the admin section
@@ -44,7 +44,7 @@ calendarsRouter.get('/:room', function(req, res) {
 // apply the routes to our application
 app.use('/admin', adminRouter);
 app.use('/calendars', calendarsRouter);
-app.use('/staticevents', express.static('staticevents'));
+app.use('/staticevents', express.static('dist/staticevents'));
 // start the server
 app.listen(1337);
 console.log('1337 is the magic port!');
