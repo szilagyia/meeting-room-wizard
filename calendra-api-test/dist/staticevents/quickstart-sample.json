@@ -1,0 +1,497 @@
+[
+  {
+    "kind": "calendar#event",
+    "etag": "\"2967040957728000\"",
+    "id": "p0raao00sjfr1pj98pkv178s84",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=cDByYWFvMDBzamZyMXBqOThwa3YxNzhzODQgc3RhcnNjaGVtYS5uZXRfMmQzOTMwMzEzNzM0MzUzNjMyMmQzODMwMzFAcmVzb3VyY2UuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
+    "created": "2017-01-04T08:55:34.000Z",
+    "updated": "2017-01-04T09:01:18.864Z",
+    "summary": "China security for GPAS",
+    "location": "Nautica",
+    "creator": {
+      "email": "herczegt@starschema.net"
+    },
+    "organizer": {
+      "email": "herczegt@starschema.net"
+    },
+    "start": {
+      "dateTime": "2017-01-04T14:30:00+01:00"
+    },
+    "end": {
+      "dateTime": "2017-01-04T15:30:00+01:00"
+    },
+    "iCalUID": "p0raao00sjfr1pj98pkv178s84@google.com",
+    "sequence": 0,
+    "attendees": [
+      {
+        "email": "herczegt@starschema.net",
+        "organizer": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "starschema.net_2d39303137343536322d383031@resource.calendar.google.com",
+        "displayName": "Nautica",
+        "self": true,
+        "resource": true,
+        "responseStatus": "accepted"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"2966727940120000\"",
+    "id": "6sp66cpoccs3ab9m68o3eb9kccojcb9p60o3cbb16cqjgphj6cs6ac1j64_20170105T100000Z",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NnNwNjZjcG9jY3MzYWI5bTY4bzNlYjlrY2NvamNiOXA2MG8zY2JiMTZjcWpncGhqNmNzNmFjMWo2NF8yMDE3MDEwNVQxMDAwMDBaIHN0YXJzY2hlbWEubmV0XzJkMzkzMDMxMzczNDM1MzYzMjJkMzgzMDMxQHJlc291cmNlLmNhbGVuZGFyLmdvb2dsZS5jb20",
+    "created": "2017-01-02T13:28:18.000Z",
+    "updated": "2017-01-02T13:32:50.060Z",
+    "summary": "Real Dwh call Ge Capital",
+    "location": "Nautica, Nautica",
+    "creator": {
+      "email": "gaspara@starschema.net"
+    },
+    "organizer": {
+      "email": "gaspara@starschema.net"
+    },
+    "start": {
+      "dateTime": "2017-01-05T11:00:00+01:00"
+    },
+    "end": {
+      "dateTime": "2017-01-05T12:00:00+01:00"
+    },
+    "recurringEventId": "6sp66cpoccs3ab9m68o3eb9kccojcb9p60o3cbb16cqjgphj6cs6ac1j64",
+    "originalStartTime": {
+      "dateTime": "2017-01-05T11:00:00+01:00"
+    },
+    "iCalUID": "6sp66cpoccs3ab9m68o3eb9kccojcb9p60o3cbb16cqjgphj6cs6ac1j64@google.com",
+    "sequence": 1,
+    "attendees": [
+      {
+        "email": "starschema.net_2d39303137343536322d383031@resource.calendar.google.com",
+        "displayName": "Nautica",
+        "self": true,
+        "resource": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "nagyb@starschema.net",
+        "displayName": "Bela Nagy",
+        "responseStatus": "needsAction"
+      },
+      {
+        "email": "gaspara@starschema.net",
+        "organizer": true,
+        "responseStatus": "accepted"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"2907429144190000\"",
+    "id": "sknmgp99e1h4j60n63oesq0umg_20170109T140000Z",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=c2tubWdwOTllMWg0ajYwbjYzb2VzcTB1bWdfMjAxNzAxMDlUMTQwMDAwWiBzdGFyc2NoZW1hLm5ldF8yZDM5MzAzMTM3MzQzNTM2MzIyZDM4MzAzMUByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t",
+    "created": "2014-01-22T07:57:48.000Z",
+    "updated": "2016-01-25T09:36:12.095Z",
+    "summary": "ONERISK weekly meeting  8297760",
+    "description": "Raum 5 (0.1.17) / phone conference code 8297760#",
+    "location": "Nautica",
+    "creator": {
+      "email": "nagyb@starschema.net",
+      "displayName": "Bela Nagy"
+    },
+    "organizer": {
+      "email": "nagyb@starschema.net",
+      "displayName": "Bela Nagy"
+    },
+    "start": {
+      "dateTime": "2017-01-09T15:00:00+01:00"
+    },
+    "end": {
+      "dateTime": "2017-01-09T16:00:00+01:00"
+    },
+    "recurringEventId": "sknmgp99e1h4j60n63oesq0umg",
+    "originalStartTime": {
+      "dateTime": "2017-01-09T15:00:00+01:00"
+    },
+    "iCalUID": "sknmgp99e1h4j60n63oesq0umg@google.com",
+    "sequence": 1,
+    "attendees": [
+      {
+        "email": "nagyb@starschema.net",
+        "displayName": "Bela Nagy",
+        "organizer": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "starschema.net_2d39303137343536322d383031@resource.calendar.google.com",
+        "displayName": "Nautica",
+        "self": true,
+        "resource": true,
+        "responseStatus": "accepted"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"2966727868250000\"",
+    "id": "64om8e9n6cojgb9g6go62b9k6krj2b9ockpjib9k70qj6dhj6sojiphnck_20170110T121500Z",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjRvbThlOW42Y29qZ2I5ZzZnbzYyYjlrNmtyajJiOW9ja3BqaWI5azcwcWo2ZGhqNnNvamlwaG5ja18yMDE3MDExMFQxMjE1MDBaIHN0YXJzY2hlbWEubmV0XzJkMzkzMDMxMzczNDM1MzYzMjJkMzgzMDMxQHJlc291cmNlLmNhbGVuZGFyLmdvb2dsZS5jb20",
+    "created": "2017-01-02T13:23:16.000Z",
+    "updated": "2017-01-02T13:32:14.125Z",
+    "summary": "AAA+ status call",
+    "location": "Nautica, Nautica",
+    "creator": {
+      "email": "gaspara@starschema.net"
+    },
+    "organizer": {
+      "email": "gaspara@starschema.net"
+    },
+    "start": {
+      "dateTime": "2017-01-10T13:15:00+01:00"
+    },
+    "end": {
+      "dateTime": "2017-01-10T14:00:00+01:00"
+    },
+    "recurringEventId": "64om8e9n6cojgb9g6go62b9k6krj2b9ockpjib9k70qj6dhj6sojiphnck",
+    "originalStartTime": {
+      "dateTime": "2017-01-10T13:15:00+01:00"
+    },
+    "iCalUID": "64om8e9n6cojgb9g6go62b9k6krj2b9ockpjib9k70qj6dhj6sojiphnck@google.com",
+    "sequence": 1,
+    "attendees": [
+      {
+        "email": "starschema.net_2d39303137343536322d383031@resource.calendar.google.com",
+        "displayName": "Nautica",
+        "self": true,
+        "resource": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "gaspara@starschema.net",
+        "organizer": true,
+        "responseStatus": "accepted"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"2964284938880000\"",
+    "id": "20c5alpv5uerc5cnjdm8irft4k_20170111T090000Z",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MjBjNWFscHY1dWVyYzVjbmpkbThpcmZ0NGtfMjAxNzAxMTFUMDkwMDAwWiBzdGFyc2NoZW1hLm5ldF8yZDM5MzAzMTM3MzQzNTM2MzIyZDM4MzAzMUByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t",
+    "created": "2016-12-19T10:14:27.000Z",
+    "updated": "2016-12-19T10:14:29.440Z",
+    "summary": "Weekly Model Roadmap",
+    "description": "Szia,\n\nkiírom reoccurring a szokásos meetingünket a modelről (patch, release, plan, etc.)\n\nAndrás",
+    "location": "Nautica",
+    "creator": {
+      "email": "lendvaya@starschema.net",
+      "displayName": "Andras Lendvay"
+    },
+    "organizer": {
+      "email": "lendvaya@starschema.net",
+      "displayName": "Andras Lendvay"
+    },
+    "start": {
+      "dateTime": "2017-01-11T10:00:00+01:00"
+    },
+    "end": {
+      "dateTime": "2017-01-11T11:00:00+01:00"
+    },
+    "recurringEventId": "20c5alpv5uerc5cnjdm8irft4k",
+    "originalStartTime": {
+      "dateTime": "2017-01-11T10:00:00+01:00"
+    },
+    "iCalUID": "20c5alpv5uerc5cnjdm8irft4k@google.com",
+    "sequence": 0,
+    "attendees": [
+      {
+        "email": "lendvaya@starschema.net",
+        "displayName": "Andras Lendvay",
+        "organizer": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "laszlo.fuzes@ge.com",
+        "responseStatus": "needsAction"
+      },
+      {
+        "email": "starschema.net_2d39303137343536322d383031@resource.calendar.google.com",
+        "displayName": "Nautica",
+        "self": true,
+        "resource": true,
+        "responseStatus": "accepted"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"2966727940120000\"",
+    "id": "6sp66cpoccs3ab9m68o3eb9kccojcb9p60o3cbb16cqjgphj6cs6ac1j64_20170112T100000Z",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NnNwNjZjcG9jY3MzYWI5bTY4bzNlYjlrY2NvamNiOXA2MG8zY2JiMTZjcWpncGhqNmNzNmFjMWo2NF8yMDE3MDExMlQxMDAwMDBaIHN0YXJzY2hlbWEubmV0XzJkMzkzMDMxMzczNDM1MzYzMjJkMzgzMDMxQHJlc291cmNlLmNhbGVuZGFyLmdvb2dsZS5jb20",
+    "created": "2017-01-02T13:28:18.000Z",
+    "updated": "2017-01-02T13:32:50.060Z",
+    "summary": "Real Dwh call Ge Capital",
+    "location": "Nautica, Nautica",
+    "creator": {
+      "email": "gaspara@starschema.net"
+    },
+    "organizer": {
+      "email": "gaspara@starschema.net"
+    },
+    "start": {
+      "dateTime": "2017-01-12T11:00:00+01:00"
+    },
+    "end": {
+      "dateTime": "2017-01-12T12:00:00+01:00"
+    },
+    "recurringEventId": "6sp66cpoccs3ab9m68o3eb9kccojcb9p60o3cbb16cqjgphj6cs6ac1j64",
+    "originalStartTime": {
+      "dateTime": "2017-01-12T11:00:00+01:00"
+    },
+    "iCalUID": "6sp66cpoccs3ab9m68o3eb9kccojcb9p60o3cbb16cqjgphj6cs6ac1j64@google.com",
+    "sequence": 1,
+    "attendees": [
+      {
+        "email": "starschema.net_2d39303137343536322d383031@resource.calendar.google.com",
+        "displayName": "Nautica",
+        "self": true,
+        "resource": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "nagyb@starschema.net",
+        "displayName": "Bela Nagy",
+        "responseStatus": "needsAction"
+      },
+      {
+        "email": "gaspara@starschema.net",
+        "organizer": true,
+        "responseStatus": "accepted"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"2907429144190000\"",
+    "id": "sknmgp99e1h4j60n63oesq0umg_20170116T140000Z",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=c2tubWdwOTllMWg0ajYwbjYzb2VzcTB1bWdfMjAxNzAxMTZUMTQwMDAwWiBzdGFyc2NoZW1hLm5ldF8yZDM5MzAzMTM3MzQzNTM2MzIyZDM4MzAzMUByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t",
+    "created": "2014-01-22T07:57:48.000Z",
+    "updated": "2016-01-25T09:36:12.095Z",
+    "summary": "ONERISK weekly meeting  8297760",
+    "description": "Raum 5 (0.1.17) / phone conference code 8297760#",
+    "location": "Nautica",
+    "creator": {
+      "email": "nagyb@starschema.net",
+      "displayName": "Bela Nagy"
+    },
+    "organizer": {
+      "email": "nagyb@starschema.net",
+      "displayName": "Bela Nagy"
+    },
+    "start": {
+      "dateTime": "2017-01-16T15:00:00+01:00"
+    },
+    "end": {
+      "dateTime": "2017-01-16T16:00:00+01:00"
+    },
+    "recurringEventId": "sknmgp99e1h4j60n63oesq0umg",
+    "originalStartTime": {
+      "dateTime": "2017-01-16T15:00:00+01:00"
+    },
+    "iCalUID": "sknmgp99e1h4j60n63oesq0umg@google.com",
+    "sequence": 1,
+    "attendees": [
+      {
+        "email": "nagyb@starschema.net",
+        "displayName": "Bela Nagy",
+        "organizer": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "starschema.net_2d39303137343536322d383031@resource.calendar.google.com",
+        "displayName": "Nautica",
+        "self": true,
+        "resource": true,
+        "responseStatus": "accepted"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"2966727868250000\"",
+    "id": "64om8e9n6cojgb9g6go62b9k6krj2b9ockpjib9k70qj6dhj6sojiphnck_20170117T121500Z",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjRvbThlOW42Y29qZ2I5ZzZnbzYyYjlrNmtyajJiOW9ja3BqaWI5azcwcWo2ZGhqNnNvamlwaG5ja18yMDE3MDExN1QxMjE1MDBaIHN0YXJzY2hlbWEubmV0XzJkMzkzMDMxMzczNDM1MzYzMjJkMzgzMDMxQHJlc291cmNlLmNhbGVuZGFyLmdvb2dsZS5jb20",
+    "created": "2017-01-02T13:23:16.000Z",
+    "updated": "2017-01-02T13:32:14.125Z",
+    "summary": "AAA+ status call",
+    "location": "Nautica, Nautica",
+    "creator": {
+      "email": "gaspara@starschema.net"
+    },
+    "organizer": {
+      "email": "gaspara@starschema.net"
+    },
+    "start": {
+      "dateTime": "2017-01-17T13:15:00+01:00"
+    },
+    "end": {
+      "dateTime": "2017-01-17T14:00:00+01:00"
+    },
+    "recurringEventId": "64om8e9n6cojgb9g6go62b9k6krj2b9ockpjib9k70qj6dhj6sojiphnck",
+    "originalStartTime": {
+      "dateTime": "2017-01-17T13:15:00+01:00"
+    },
+    "iCalUID": "64om8e9n6cojgb9g6go62b9k6krj2b9ockpjib9k70qj6dhj6sojiphnck@google.com",
+    "sequence": 1,
+    "attendees": [
+      {
+        "email": "starschema.net_2d39303137343536322d383031@resource.calendar.google.com",
+        "displayName": "Nautica",
+        "self": true,
+        "resource": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "gaspara@starschema.net",
+        "organizer": true,
+        "responseStatus": "accepted"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"2964284938880000\"",
+    "id": "20c5alpv5uerc5cnjdm8irft4k_20170118T090000Z",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MjBjNWFscHY1dWVyYzVjbmpkbThpcmZ0NGtfMjAxNzAxMThUMDkwMDAwWiBzdGFyc2NoZW1hLm5ldF8yZDM5MzAzMTM3MzQzNTM2MzIyZDM4MzAzMUByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t",
+    "created": "2016-12-19T10:14:27.000Z",
+    "updated": "2016-12-19T10:14:29.440Z",
+    "summary": "Weekly Model Roadmap",
+    "description": "Szia,\n\nkiírom reoccurring a szokásos meetingünket a modelről (patch, release, plan, etc.)\n\nAndrás",
+    "location": "Nautica",
+    "creator": {
+      "email": "lendvaya@starschema.net",
+      "displayName": "Andras Lendvay"
+    },
+    "organizer": {
+      "email": "lendvaya@starschema.net",
+      "displayName": "Andras Lendvay"
+    },
+    "start": {
+      "dateTime": "2017-01-18T10:00:00+01:00"
+    },
+    "end": {
+      "dateTime": "2017-01-18T11:00:00+01:00"
+    },
+    "recurringEventId": "20c5alpv5uerc5cnjdm8irft4k",
+    "originalStartTime": {
+      "dateTime": "2017-01-18T10:00:00+01:00"
+    },
+    "iCalUID": "20c5alpv5uerc5cnjdm8irft4k@google.com",
+    "sequence": 0,
+    "attendees": [
+      {
+        "email": "lendvaya@starschema.net",
+        "displayName": "Andras Lendvay",
+        "organizer": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "laszlo.fuzes@ge.com",
+        "responseStatus": "needsAction"
+      },
+      {
+        "email": "starschema.net_2d39303137343536322d383031@resource.calendar.google.com",
+        "displayName": "Nautica",
+        "self": true,
+        "resource": true,
+        "responseStatus": "accepted"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"2966727940120000\"",
+    "id": "6sp66cpoccs3ab9m68o3eb9kccojcb9p60o3cbb16cqjgphj6cs6ac1j64_20170119T100000Z",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NnNwNjZjcG9jY3MzYWI5bTY4bzNlYjlrY2NvamNiOXA2MG8zY2JiMTZjcWpncGhqNmNzNmFjMWo2NF8yMDE3MDExOVQxMDAwMDBaIHN0YXJzY2hlbWEubmV0XzJkMzkzMDMxMzczNDM1MzYzMjJkMzgzMDMxQHJlc291cmNlLmNhbGVuZGFyLmdvb2dsZS5jb20",
+    "created": "2017-01-02T13:28:18.000Z",
+    "updated": "2017-01-02T13:32:50.060Z",
+    "summary": "Real Dwh call Ge Capital",
+    "location": "Nautica, Nautica",
+    "creator": {
+      "email": "gaspara@starschema.net"
+    },
+    "organizer": {
+      "email": "gaspara@starschema.net"
+    },
+    "start": {
+      "dateTime": "2017-01-19T11:00:00+01:00"
+    },
+    "end": {
+      "dateTime": "2017-01-19T12:00:00+01:00"
+    },
+    "recurringEventId": "6sp66cpoccs3ab9m68o3eb9kccojcb9p60o3cbb16cqjgphj6cs6ac1j64",
+    "originalStartTime": {
+      "dateTime": "2017-01-19T11:00:00+01:00"
+    },
+    "iCalUID": "6sp66cpoccs3ab9m68o3eb9kccojcb9p60o3cbb16cqjgphj6cs6ac1j64@google.com",
+    "sequence": 1,
+    "attendees": [
+      {
+        "email": "starschema.net_2d39303137343536322d383031@resource.calendar.google.com",
+        "displayName": "Nautica",
+        "self": true,
+        "resource": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "nagyb@starschema.net",
+        "displayName": "Bela Nagy",
+        "responseStatus": "needsAction"
+      },
+      {
+        "email": "gaspara@starschema.net",
+        "organizer": true,
+        "responseStatus": "accepted"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    }
+  }
+]
